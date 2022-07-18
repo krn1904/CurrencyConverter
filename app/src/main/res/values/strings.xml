@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string-array name="currancys">
+        <item> US_Dollar</item>
+        <item> Japanese_Yan</item>
+        <item> Russian_Ruble</item>
+        <item> canadian_Dollar</item>
+        <item> Australian_Dollar</item>
+    </string-array>
+</resources>
